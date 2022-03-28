@@ -1,0 +1,9 @@
+/db.sqlite3
+mysite/__pycache__
+editor/__pycache__
+editor/migrations
+media/
+main-catalog/
+**/.DS_Store
+filemanager.js
+queries.sql
